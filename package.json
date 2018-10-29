@@ -1,0 +1,17 @@
+{
+  "name": "mvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^6.3.0",
+    "aws-sdk": "^2.344.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
